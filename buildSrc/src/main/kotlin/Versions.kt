@@ -1,0 +1,1 @@
+val JDK_VERSION = "11"
